@@ -1,0 +1,83 @@
+    body {
+        background: linear-gradient(to bottom right, #000066 0%, #00ffff 100%);
+}
+
+.primeDiv {
+    position: relative;
+    height: 100vh;
+    width: 1200px;
+    left: 17%;
+}
+
+.title {
+    background-color: #000066;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    height: 150px;
+    padding-top: 15px;
+    border-radius: 10px;
+}
+
+.subTitle{
+    font-size: 15px;
+    font-style: italic;
+}
+
+.bodyMain {
+    text-align: center;
+}
+
+.mainPic {
+    width: 200px;
+    rotate: -20deg;
+        
+}
+
+.textMain {
+    text-align: left;
+    color: #000066;
+    font-size:80px;
+    margin: 20px;
+}
+
+.subMain{
+    color: white;
+    position: absolute;
+    font-size: 20px;
+    bottom: 5%;
+
+}
+table{
+    padding-top: 5px;
+    font-size: 15px;
+    background-color: rgb(255, 255, 255);
+    width: 1200px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.footer1 {
+    font-style: italic;
+    background-color: #000066;
+    text-align: center;
+    color: white;
+    width: 1200px;
+    height: 50px;
+    font-size: 12px;
+    position: absolute;
+    bottom: 0%;
+    line-height: 25px;
+}
+
+.projectList {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+address {
+    color: white;
+}
